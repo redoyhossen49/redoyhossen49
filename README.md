@@ -1,4 +1,4 @@
-# Hi, I'm Md. Ridoy Hossen 👋
+# Hi, I'm Md. Redoy Hossen 👋
 
 ### Frontend Developer | React.js | Next.js | JavaScript
 
