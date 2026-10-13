@@ -64,9 +64,9 @@ A web project designed to support blood donation-related information and interac
 ### 📫 Connect With Me
 
 * GitHub: [@redoyhossen49](https://github.com/redoyhossen49)
-* LinkedIn: Add your LinkedIn profile URL here
-* Portfolio: Add your live portfolio URL here
-
+* LinkedIn: https://linkedin.com/in/redoyhossen49
+* Portfolio: 
+https://my-portfolio-ashen-psi-30.vercel.app/
 ---
 
 ⭐ Thanks for visiting my profile!
